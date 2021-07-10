@@ -4,7 +4,7 @@
 
     <groupId>com.ggl</groupId>
     <artifactId>jackson-builder</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <description>Builder Module for jackson</description>
 
     <properties>
@@ -99,7 +99,7 @@
         <developerConnection>scm:git:https://github.com/${git.repository}.git</developerConnection>
         <url>https://github.com/${git.repository}</url>
         <connection>scm:git:https://github.com/${git.repository}.git</connection>
-      <tag>jackson-builder-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
